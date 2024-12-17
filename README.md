@@ -65,7 +65,7 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
 </div>
-<br><br>
+<br><br><br>
 <div align="center">  
 <a href="https://www.linkedin.com/in/lucas-garcia-beni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 

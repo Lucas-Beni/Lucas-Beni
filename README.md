@@ -10,6 +10,24 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Beni&bg_color=000000&color=024dbd&line=024dbd&point=024dbd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 💻 Linguagens e Tecnologias
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img 
+  align="left"
+  alt="PYTHON"
+  title="PYTHON"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
 <div align="center">
 <img
   align="left"
@@ -38,15 +56,6 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img 
-  align="left"
-  alt="PYTHON"
-  title="PYTHON"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
 <img
   align="left"
   alt="Git"
@@ -73,6 +82,16 @@
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
+
+<img
+  align="left"
+  alt="AWS services"
+  title="AWS services"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
 </div>
 <br><br><br>
 <div align="center">  
